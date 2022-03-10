@@ -1,0 +1,16 @@
+1-a) Variables:
+		Son espacios de memoria a los cuales les asignas un valor, el cual puede cambiar en un futuro por eso el origen del nombre.-
+
+1-b) Strings: 
+		Son cadenas de caracateres 
+
+1-c) Funciones:
+		Es la forma de ordenarle al codigo a realizar ciertas tareas las cuales estaran estipuladas en la funcion
+
+1-c-1) Funciones:(return):
+		Las funciones resiven argumentos los cuales pueden ser procesados de diferentes maneras y pueden regresar valores especificos o variables utilizando el metodo return.-
+
+1-d) Declaracion if:
+		Las declaraciones if, if else, se utilizan para tomar desiciones dentro del codigo y depdiendo si se cumplen ciertas premisas dentro del mismo devolver un valor u otro, if (si) se cumple condicion {devolver un valor} else (de lo contrario) {devolver otro valor}
+
+
