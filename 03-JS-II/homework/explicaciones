@@ -1,0 +1,11 @@
+1) for: 
+	El bucle for consta de 3 partes una declaracion de variable, la segunda parte es una condicion para en caso de que se cumpla o no el bucle ejecute cierta tarea, la tercer parte del buclce for es un instanciador o la parte en que esa variable sigue acumulandose o cambiando hasta llegar a cumplir o no la segunda condicion del bucle.-
+
+&&:
+	El operador && o AND es utilizado para comparar expresiones si y solo si las dos expresiones son correcta el devolvera true en caso de que una de las expresiones sea false el operador && devolvera false.-
+
+||:
+	El operador || o OR es utilizado para comparar expresiones y devolvera true si una o mas expresiones son verdederas 
+
+!:
+	El operador ! (not) en español NO ES, es utilizado en forma logica inversa para decir que una expresion es verdadera o falsa podiendo devolver como valor true o false
